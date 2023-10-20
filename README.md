@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Jean Quesada 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/C299iw7dL1YF7oni9e/giphy.gif" width="100"/>
+</div>
 
 <!--
 **ImTeegan/ImTeegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
